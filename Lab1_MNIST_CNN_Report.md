@@ -1,4 +1,6 @@
-﻿# Báo cáo Lab 1: Khảo sát mạng học sâu CNN trên MNIST
+﻿# Lab 01 - Khảo sát mạng neuron network và phương pháp parabol
+
+**Người làm:** 25C15047 - Chu Hải Linh
 
 ## 1. Mô tả đề tài
 - Đề tài: Nhận diện chữ số viết tay (0-9) trên bộ dữ liệu MNIST bằng mạng CNN.
